@@ -1,0 +1,14 @@
+#me {
+  width: 150px;
+  padding: 10px;
+  border-radius: 50%;
+  float: right;
+}
+
+#title {
+  margin-bottom: 20px;
+}
+
+p {
+  padding-top: 20px;
+}
